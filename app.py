@@ -1,10 +1,8 @@
 
-import time
-import flask
-import workzeug
+from flask import flask
 
-for i in range(1, 6):
-    print(f"Value: {i}")
-    time.sleep(1)  # Pause for 1 second between prints
+app = Flask(name)
 
-print("Filip er grønlænder!")
+@app.route("/")
+def home():
+	return ("Filip == grøndlænder")
