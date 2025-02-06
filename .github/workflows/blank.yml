@@ -22,4 +22,5 @@ jobs:
       
       - name: Run a basic test
         run: echo "Ci Pipe running"
-
+      - name: Run tests
+        run: bash test_script.sh
