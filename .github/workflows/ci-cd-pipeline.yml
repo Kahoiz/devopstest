@@ -36,3 +36,5 @@ jobs:
       - name: Run security scan
         run: |
           trivy fs .
+      - name: Run ESLint
+        run: npx eslint .
