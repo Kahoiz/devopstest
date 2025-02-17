@@ -18,7 +18,7 @@ namespace TestProject1
         {
             CalController calController = new CalController();
 
-            Assert.Equal(4, calController.Add(1, 2));
+            Assert.Equal(3, calController.Add(1, 2));
         }
     }
 }
