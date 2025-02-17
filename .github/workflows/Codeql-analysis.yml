@@ -30,10 +30,10 @@ jobs:
           languages: csharp
 
       - name: Restore dependencies
-        run: dotnet restore ./src/MyProject.sln  # Change this path to your actual .sln file
+        run: dotnet restore ConsoleProject/ConsoleProject.sln  # Change this path to your actual .sln file
 
       - name: Build the project
-        run: dotnet build ./src/MyProject.sln --no-restore --configuration Release
+        run: dotnet build ConsoleProject/ConsoleProject.sln --no-restore --configuration Release
 
       - name: Perform CodeQL Analysis 
         uses: github/codeql-action/analyze@v2
