@@ -1,5 +1,39 @@
-- name: Lint Code with ESLint
-  run: npx eslint . --fix
+name: Lint and Format Code
 
-- name: Format Code with Prettier
-  run: npx prettier --write .
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  lint-and-format:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'  # Specify the Node.js version you want to use
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Lint Code with ESLint
+      run: npx eslint . --fix
+
+    - name: Format Code with Prettier
+      run: npx prettier --write .
+      
+    - name: Commit and push formatted code (if changes were made)
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "chore: apply ESLint and Prettier fixes" || echo "No changes to commit"
+        git push
