@@ -17,13 +17,13 @@ jobs:
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '8.0.x' # Use your target .NET version
+        dotnet-version: '8.0.x'  # Change if needed
 
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore ConsoleProject/ConsoleProject.sln  # Adjust path to your .sln or .csproj file
 
     - name: Build the project
-      run: dotnet build --no-restore --configuration Release
+      run: dotnet build ConsoleProject/ConsoleProject.sln --no-restore --configuration Release
 
     - name: Run xUnit tests
-      run: dotnet test --no-build --configuration Release --logger trx
+      run: dotnet test ConsoleProject/ConsoleProject.sln --no-build --configuration Release
