@@ -1,0 +1,5 @@
+- name: Lint Code with ESLint
+  run: npx eslint . --fix
+
+- name: Format Code with Prettier
+  run: npx prettier --write .
