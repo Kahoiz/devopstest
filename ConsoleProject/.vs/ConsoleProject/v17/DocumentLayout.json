@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0FC600-128D-40D6-B837-A62DF86B64E5}|TestProject1\\TestProject1.csproj|c:\\users\\mathias\\source\\repos\\gissung\\devops-velse1\\consoleproject\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B0FC600-128D-40D6-B837-A62DF86B64E5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|c:\\users\\mathias\\source\\repos\\gissung\\devops-velse1\\consoleproject\\consoleproject\\consoleproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\consoleproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0FC600-128D-40D6-B837-A62DF86B64E5}|TestProject1\\TestProject1.csproj|c:\\users\\mathias\\source\\repos\\gissung\\devops-velse1\\consoleproject\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B0FC600-128D-40D6-B837-A62DF86B64E5}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|c:\\users\\mathias\\source\\repos\\gissung\\devops-velse1\\consoleproject\\consoleproject\\calcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\calcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|c:\\users\\mathias\\source\\repos\\gissung\\devops-velse1\\consoleproject\\consoleproject\\tests\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\tests\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|c:\\users\\mathias\\source\\repos\\gissung\\devops-velse1\\consoleproject\\consoleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|c:\\users\\mathias\\source\\repos\\gissung\\devops-velse1\\consoleproject\\consoleproject\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4DC0C5-1A82-495B-BBE4-99735456688E}|ConsoleProject\\ConsoleProject.csproj|solutionrelative:consoleproject\\calculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestProject1",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TestProject1.csproj",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1\\TestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T09:23:02.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:22:00.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleProject",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
+              "RelativeDocumentMoniker": "ConsoleProject\\ConsoleProject.csproj",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\ConsoleProject.csproj",
+              "RelativeToolTip": "ConsoleProject\\ConsoleProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T09:20:10.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\tests\\Test.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\tests\\Test.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\tests\\Test.cs",
+              "RelativeToolTip": "ConsoleProject\\tests\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:20:56.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalController.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\CalController.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\CalController.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\CalController.cs",
+              "RelativeToolTip": "ConsoleProject\\CalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:13:54.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculater.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\Calculater.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\Calculater.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\Calculater.cs",
+              "RelativeToolTip": "ConsoleProject\\Calculater.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:13:18.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Mathias\\source\\repos\\Gissung\\Devops-velse1\\ConsoleProject\\ConsoleProject\\Program.cs",
+              "RelativeToolTip": "ConsoleProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:12:44.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
